@@ -17,6 +17,6 @@ loginButton.addEventListener("click", function(event) {
         // Redirect to homepage or other desired location
         window.location.href="homepage.html"
     } else {
-        alert("Login failed!");
+        alert("password doesn't match you cheeky boy");
     }
 });
